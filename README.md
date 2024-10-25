@@ -6,7 +6,7 @@
 
 - 🌍 Based in Taiwan
 - 💼 Currently looking for new opportunities
-- 🎓 Rising Junior at University of Maryland, double major in Computer Science & Math 
+- 🎓 Junior at University of Maryland, double major in Computer Science & Math 
 - 💡 Interested in Algorithms
 
 ## Competitive Programming Experiences
