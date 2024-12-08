@@ -9,6 +9,9 @@
 - 🎓 Junior at University of Maryland, double major in Computer Science & Math 
 - 💡 Interested in Algorithms
 
+## Experience
+- Technical Advisor Intern @ Scale AI
+
 ## Competitive Programming Experiences
 
 - ICPC World Finalist 2023/2024
