@@ -9,7 +9,7 @@
 - 🎓 Junior at University of Maryland, double major in Computer Science & Math 
 - 💡 Interested in Algorithms
 
-## Experience
+## Experiences
 - Technical Advisor Intern @ Scale AI
 
 ## Competitive Programming Experiences
