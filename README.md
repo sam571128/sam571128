@@ -10,7 +10,8 @@
 - 💡 Interested in Algorithms
 
 ## Experiences
-- Technical Advisor Intern @ Scale AI
+- Incoming Software Engineer Intern @ Codeium (Fall 2025)
+- Technical Advisor Intern @ Scale AI (December 2024 - Present)
 
 ## Competitive Programming Experiences
 
