@@ -10,7 +10,7 @@
 - 💡 Interested in Algorithms
 
 ## Experiences
-- Incoming Software Engineer Intern @ Codeium (Fall 2025)
+- Incoming Software Engineer Intern @ Windsurf (Fall 2025)
 - Technical Advisor Intern @ Scale AI (December 2024 - Present)
 
 ## Competitive Programming Experiences
