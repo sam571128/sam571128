@@ -10,8 +10,9 @@
 - 💡 Interested in Algorithms
 
 ## Experiences
-- Incoming Software Engineer Intern @ Windsurf (Summer 2025)
-- Technical Advisor Intern @ Scale AI (December 2024 - Present)
+- Software Engineer Intern @ Windsurf (Acquired By Cognition) 
+- Previously:
+  - Technical Advisor Intern @ Scale AI 
 
 ## Competitive Programming Experiences
 
