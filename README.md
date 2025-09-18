@@ -10,8 +10,9 @@
 - 💡 Interested in Algorithms
 
 ## Experiences
-- Software Engineer Intern @ Windsurf (Acquired By Cognition) 
+- Human Engineer @ Cognition
 - Previously:
+  - Software Engineer Intern @ Windsurf (Acquired By Cognition) 
   - Technical Advisor Intern @ Scale AI 
 
 ## Competitive Programming Experiences
