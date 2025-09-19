@@ -4,10 +4,10 @@
 
 **A passionate programmer that dreams to become a successful software engineer**
 
-- 🌍 Based in Taiwan
+- 🌍 Based in Bay Area
 - 💼 Currently looking for new opportunities
-- 🎓 Junior at University of Maryland, double major in Computer Science & Math 
-- 💡 Interested in Algorithms
+- 🎓 Senior at University of Maryland, double major in Computer Science & Math 
+- 💡 Interested in Algorithms, LLMs, ML Infra, Inference
 
 ## Experiences
 - Human Engineer @ Cognition
