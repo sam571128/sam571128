@@ -5,12 +5,11 @@
 **A passionate programmer that dreams to become a successful software engineer**
 
 - 🌍 Based in Bay Area
-- 💼 Currently looking for new opportunities
 - 🎓 Senior at University of Maryland, double major in Computer Science & Math 
-- 💡 Interested in Algorithms, LLMs, ML Infra, Inference
+- 💡 Interested in Algorithms, LLMs, ML Infra, Inference, RL
 
 ## Experiences
-- Human Engineer @ Cognition
+- ML/RL Infra @ Cognition
 - Previously:
   - Software Engineer Intern @ Windsurf (Acquired By Cognition) 
   - Technical Advisor Intern @ Scale AI 
